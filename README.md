@@ -1,2 +1,2 @@
 # UpdateNotifier
-UpdateNotifier updates for website updates.
+UpdateNotifier notifies for website updates.
